@@ -8,4 +8,3 @@ An introduction to programming using a language called Python. Learn how to read
 [**See Certificate**](https://github.com/PeJiR/Harvard-University-Certificates/blob/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/CS50P-Certificate.png)
  
 
- #### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
