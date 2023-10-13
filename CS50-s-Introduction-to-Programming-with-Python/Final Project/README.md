@@ -8,7 +8,7 @@
 
 ### ✨[Demo](https://youtu.be/T85OjtX9J4k)
 
-### [Play this game online](https://www.online-python.com/oQn49MZL3r)
+### 🏠[Play this game online](https://www.online-python.com/oQn49MZL3r)
 
 ### Description:
 
