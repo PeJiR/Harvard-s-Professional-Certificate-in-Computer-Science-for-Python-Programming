@@ -20,5 +20,5 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 ### [CS50's Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50's%20Introduction%20to%20Computer%20Science)
 
-### [CS50's Introduction to Programming with Python]
+### [CS50's Introduction to Programming with Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python)
 
