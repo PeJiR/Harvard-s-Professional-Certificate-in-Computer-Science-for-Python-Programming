@@ -58,6 +58,3 @@ Code quality: The game code should be well-written and easy to maintain.
 This project is a simple but complete implementation of a tic-tac-toe game in Python. The game is fair, portable, and easy to play. The code is also well-written and easy to maintain.
 
 
-
-
-#### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
