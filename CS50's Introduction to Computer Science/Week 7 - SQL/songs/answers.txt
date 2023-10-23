@@ -1,4 +1,4 @@
-o characterize the audio aura of the listener based on their top 100 songs, I would first calculate the average of the three audio features: energy, danceability, and valence.
+To characterize the audio aura of the listener based on their top 100 songs, I would first calculate the average of the three audio features: energy, danceability, and valence.
 
 Energy measures how active or intense a song is. High-energy songs are often upbeat and danceable, while low-energy songs are more mellow and relaxed.
 Danceability measures how easy it is to dance to a song. High-danceability songs have a steady beat and a simple rhythm, while low-danceability songs are more complex and less predictable.
