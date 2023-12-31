@@ -1,5 +1,3 @@
-Spaceship Titanic
- 
 ## **Certificate Description:**
 
 A broad and robust understanding of computer science and programming.
