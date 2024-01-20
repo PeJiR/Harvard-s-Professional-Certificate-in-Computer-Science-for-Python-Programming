@@ -1,5 +1,5 @@
 ## **Certificate Description:**
-https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming
+
 
 
 A broad and robust understanding of computer science and programming.
@@ -22,3 +22,5 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 ### [CS50's Introduction to Programming with Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50-s-Introduction-to-Programming-with-Python/Certificate_CS50%20Python.pdf)
 
+
+https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming
