@@ -6,11 +6,11 @@
 <a target="new" href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming "><img border=0 src="https://img.shields.io/github/stars/Pejir/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.svg?style=social&label=Star&maxAge=60" alt="Star this repo"></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-### ✨[Demo](https://youtu.be/T85OjtX9J4k)
+## ✨[Demo](https://youtu.be/T85OjtX9J4k)
 
-### 🏠[Play this game online](https://www.online-python.com/oQn49MZL3r)
+## 🏠[Play this game online](https://www.online-python.com/oQn49MZL3r)
 
-### Description:
+## Description:
 
 >This project is a simple tic-tac-toe game implemented in Python. The game can be played by two players, who take turns placing their marks (X or O) on a 3x3 grid. The first player to get three of their marks in a row, column, or diagonal wins the game.
 
@@ -26,7 +26,10 @@ Error checking
 To install the game, simply clone the repository to your local machine:
 
     git clone https://github.com/PeJiR/Professional-Certificates.git
+    
+**Technology Used**
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 **Usage:**
 
