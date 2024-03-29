@@ -1,10 +1,11 @@
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
-
+# Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming 
 
 ## [**Certificate Description:**](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming)
-### **Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming **
 
-<a href = "" target="blank"> <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo"  ></a>
+ <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
+  <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
+  </a>
 
 
 
@@ -58,8 +59,8 @@ Model real-world entities with classes, objects, methods, and properties; and re
 | 6    | File I/O                                   | [Pset6](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%206%20_File%20I%20O)             |
 | 7    | Regular Expressions                          | [Pset7](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%207_Regular%20Expressions)             |
 | 8    | Object-Oriented Programming                   | [WebTrack](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%208%20Object-Oriented%20Programming)       |
-| 9    | Et Cetera                             | [WebTrack](WebTrack)       |
-| 10    | Final Project                            | [WebTrack](WebTrack)       |
+| 9    | Et Cetera (Final Project )                           | [WebTrack](WebTrack)       |
+ 
 
 
 ## Author
