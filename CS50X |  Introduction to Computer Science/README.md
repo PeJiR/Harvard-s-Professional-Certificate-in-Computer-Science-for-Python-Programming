@@ -1,7 +1,10 @@
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
 # [Harvard University: CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) 
-
+ <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
+  <img class="CloudflareImage video-thumb optanon-category-C0001" src="https://prod-discovery.edx-cdn.org/cdn-cgi/image/width=auto,height=auto,quality=75,format=webp/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png" loading="lazy" alt="" data-ot-ignore="" width="96" height="96">
+  </a>
+  
 ## Course description
 
 A broad and robust understanding of computer science and programming
