@@ -1,5 +1,5 @@
 def main():
-    msg = input()
+    msg = input("Enter your your happy :) or sad :(")
     results =convert(msg)
     print(results)
 def convert(msg):
