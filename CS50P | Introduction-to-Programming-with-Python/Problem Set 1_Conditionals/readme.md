@@ -26,8 +26,9 @@ Week 1 Conditionals
 --->
 
 ## Specialties
- 
+```sh 
 if. elif. else. or. and. bool. match.
+```
 
 ## Technology Used ✨
 
