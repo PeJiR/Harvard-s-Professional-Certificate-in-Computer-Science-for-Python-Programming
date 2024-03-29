@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Emails
+{% endblock %}
+
+{% block main %}
+    <div>
+        {% for email in emails%}
+        <div class="list-group-item">
+            <h6> Sender: {{email.sender}}</h6>
+            <h2>{{email.subject}}</h2>
+            <p>{{email.timestamp}}</p>
+            
+        </div>
+
+        {% endfor %}
+    </div>
+{% endblock %}
