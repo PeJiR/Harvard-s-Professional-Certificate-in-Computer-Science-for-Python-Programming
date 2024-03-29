@@ -33,7 +33,7 @@ An introduction to programming using a language called Python. Learn how to read
 
 | Week | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| 0    | Functions, Variables              | [Pset1](Pset1)             |
+| 0    | Functions, Variables              | [Pset1](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python)             |
 | 1    | Conditionals               | [Pset1](Pset1)             |
 | 2    | Loops         | [Pset2](Pset2)             |
 | 3    | Exceptions      | [Pset3](Pset3)             |
