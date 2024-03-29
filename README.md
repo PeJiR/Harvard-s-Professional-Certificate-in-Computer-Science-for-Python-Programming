@@ -48,18 +48,18 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 ### List of my Projects
 
-| Week | Topic                        | Name                       |
-| :--- | :---------------             | :------------------------- |
-| 0    | Functions, Variables         | [Pset1](Pset1)             |
+| Week | Topic                                    | Name                       |
+| :--- | :---------------                         | :------------------------- |
+| 0    | Functions, Variables                     | [Pset0](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%200_%20Functions%2C%20Variables)             |
 | 1    | Conditionals                          | [Pset1](Pset1)             |
-| 2    | Loops                       | [Pset2](Pset2)             |
-| 3    | Exceptions                   | [Pset3](Pset3)             |
-| 4    | Libraries                      | [Pset4](Pset4)             |
-| 5    | Unit Tests               | [Pset5](Pset5)             |
-| 6    | File I/O                       | [Pset6](Pset6)             |
+| 2    | Loops                                   | [Pset2](Pset2)             |
+| 3    | Exceptions                               | [Pset3](Pset3)             |
+| 4    | Libraries                                  | [Pset4](Pset4)             |
+| 5    | Unit Tests                           | [Pset5](Pset5)             |
+| 6    | File I/O                                   | [Pset6](Pset6)             |
 | 7    | Regular Expressions                          | [Pset7](Pset7)             |
 | 8    | Object-Oriented Programming                   | [WebTrack](WebTrack)       |
-| 9    | Et Cetera                 | [WebTrack](WebTrack)       |
+| 9    | Et Cetera                             | [WebTrack](WebTrack)       |
 
 
 ## Author
