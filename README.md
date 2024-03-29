@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
+
+
 ## [**Certificate Description:**](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming)
 ### **CS50 Harvard University's introduction to the intellectual enterprises of computer science and the art of programming**
 
