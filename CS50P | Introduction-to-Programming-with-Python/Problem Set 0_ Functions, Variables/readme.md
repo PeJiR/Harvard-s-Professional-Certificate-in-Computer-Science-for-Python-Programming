@@ -2,7 +2,8 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Problem Set 0 </h1>
+Week 0 Functions  
+</h1>
 
 
 <!---
@@ -20,11 +21,15 @@ Problem Set 0 </h1>
 </p>
 --->
 
+## Specialties
+ 
+Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
+
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-### List of Problems
+### Problem Set 0 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
