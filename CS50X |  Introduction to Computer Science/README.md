@@ -14,6 +14,19 @@ Familiarity in a number of languages, including C, Python, SQL, and JavaScript p
 How to engage with a vibrant community of like-minded learners from all levels of experience
 How to develop and present a final programming project to your peers
 
+## Associated skills:
+- SQL (Programming Language),
+- Cascading Style Sheets (CSS),
+- Cryptography,
+- JavaScript (Programming Language),
+- Python (Programming Language),
+- Data Structures,
+- Forensic Sciences,
+- Finance, Algorithms, Computer Science,
+- Resource Management, Security Software,
+- HyperText Markup Language (HTML),
+- C (Programming Language)
+  
 ## See Certificate
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Gradebook_CS50x%202023.pdf" target="_blank">
