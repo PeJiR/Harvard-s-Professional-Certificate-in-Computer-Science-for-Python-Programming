@@ -60,6 +60,7 @@ Model real-world entities with classes, objects, methods, and properties; and re
 | 7    | Regular Expressions                          | [Pset7](Pset7)             |
 | 8    | Object-Oriented Programming                   | [WebTrack](WebTrack)       |
 | 9    | Et Cetera                             | [WebTrack](WebTrack)       |
+| 10    | Final Project                            | [WebTrack](WebTrack)       |
 
 
 ## Author
