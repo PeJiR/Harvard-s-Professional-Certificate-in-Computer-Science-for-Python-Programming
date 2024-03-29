@@ -28,7 +28,7 @@ In a file called indoor.py, implement a program in Python that prompts the user 
 
 ##  See project online 
 
-[Link to project](https://codepen.io/Robeloper/full/OJqgbGP) ✨
+[Link to project](https://www.online-python.com/CexKnEpbjV) ✨
 
 
 ## Technology Used
