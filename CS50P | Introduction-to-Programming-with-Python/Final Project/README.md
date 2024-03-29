@@ -16,7 +16,7 @@
 
 ## Technology Used
 
-- Python <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svgg" alt="css3" width="40" height="40"/> 
+- Python <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  
 
 
