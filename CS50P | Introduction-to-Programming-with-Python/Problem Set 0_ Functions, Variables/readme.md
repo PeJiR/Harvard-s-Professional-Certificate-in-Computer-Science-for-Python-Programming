@@ -29,7 +29,7 @@ Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Ps
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-### Problem Set 0 
+## Problem Set 0 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
