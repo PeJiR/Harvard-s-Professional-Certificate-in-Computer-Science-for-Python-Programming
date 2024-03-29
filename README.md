@@ -22,7 +22,7 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 ## Courses in this program:
 
-### [CS50X | Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python)
+### [CS50X | Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Gradebook_CS50x%202023.pdf)
 
 ### List of my Projects
 
