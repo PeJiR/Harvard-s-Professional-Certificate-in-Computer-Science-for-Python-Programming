@@ -2,7 +2,7 @@
 
 
 ## [**Certificate Description:**](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming)
-### **CS50 Harvard University's introduction to the intellectual enterprises of computer science and the art of programming**
+### **Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming **
 
 <a href = "" target="blank"> <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo"  ></a>
 
