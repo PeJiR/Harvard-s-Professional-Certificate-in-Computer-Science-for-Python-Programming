@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
+Week 1 Conditionals
 </h1>
 
 
@@ -23,21 +23,21 @@ Week 0 Functions
 
 ## Specialties
  
-Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
+if. elif. else. or. and. bool. match.
 
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-## Problem Set 0 
+## Problem Set 1 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Indoor Voice   | In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input. |[indoor.py ](https://www.online-python.com/3LJqD9gvne)|
-| Playback Speed  | In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). | [Playback.py ](https://www.online-python.com/RBrs1mWIpg)             |
-| Making Faces  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
-| Einstein   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
-| Tip Calculator| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
+| Deep Thought   | In deep.py, implement a program that prompts the user for the answer to the Great Question of Life, the Universe and Everything, outputting Yes if the user inputs 42 or (case-insensitively) forty-two or forty two. Otherwise output No. |[deep.py](https://www.online-python.com/KTp9PLn8Uo)|
+|Home Federal Savings Bank |  In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively. | [bank.py ](https://www.online-python.com/IVUcC4B3dJ)  |
+| File Extensions  | In a file called extensions.py, implement a program that prompts the user for the name of a file and then outputs that file’s media type if the file’s name ends, case-insensitively, in any of these suffixes:| [extensions.py](https://www.online-python.com/xbF2mlrpIU) |
+| Math Interpreter  | In a file called interpreter.py, implement a program that prompts the user for an arithmetic expression and then calculates and outputs the result as a floating-point value formatted to one decimal place.  | [interpreter.py ](https://www.online-python.com/Hlu2tVey8h)          |
+| Meal Time| In meal.py, implement a program that prompts the user for a time and outputs whether it’s breakfast time, lunch time, or dinner time. If it’s not time for a meal, don’t output anything at all. Assume that the user’s input will be formatted in 24-hour time as #:## or ##:##. And assume that each meal’s time range is inclusive. For instance, whether it’s 7:00, 7:01, 7:59, or 8:00, or anytime in between, it’s time for breakfast.| [meal.py](https://www.online-python.com/MreSAL4thm)             |
 
 
 
