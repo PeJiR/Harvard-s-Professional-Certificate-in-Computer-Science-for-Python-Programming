@@ -1,5 +1,7 @@
 
-<h1 align="center">Indoor Voice </h1>
+<h1 align="center">CS50’s Introduction to Programming with Python
+  
+Problem Set 0 </h1>
 
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
@@ -17,31 +19,20 @@
   </a>
 </p>
 --->
-## Project description: 
 
-WRITING IN ALL CAPS IS LIKE YELLING.
+## Technology Used ✨
 
-Best to use your “indoor voice” sometimes, writing entirely in lowercase.
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
+ 
+### List of Problems
 
-In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input.
-
-
-##  See project online 
-
-[Link to project](https://www.online-python.com/CexKnEpbjV) ✨
-
-
-## Technology Used
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-
-
-<a href="https://codepen.io/Robeloper/full/OJqgbGP">
-  <img src="survey.png" width="auto">
-</a>
-
+| Objective | Topic            | Name                       |
+| :--- | :--------------- | :------------------------- |
+| Indoor Voice   | In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input. |[indoor ](https://www.online-python.com/3LJqD9gvne)|
+| Build a tribute page  | HTML, CSS , Box Model, Fexbox, Typography, Accessibility, Aria attributes, design best practices    | [Tribute page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.2.Certification%20Project-Build%20a%20Tribute%20Page)             |
+| Build a technical documentation page to serve as instruction or reference for a topic  | HTML, CSS , Pseudo Selectors, Events Triggers, CSS positioning, absolute positioning, z-index, transform property,Responsive Design , media queries     | [Technical Documentation Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.3.Certification_Project_Technical%20Documentation%20Page)             |
+| Build a product landing page   | HTML, CSS, CSS variables, CSS Grid     | [Product Landing Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.4.Product%20Landing%20Page)             |
+| Build my own personal portfolio webpage  |HTML, CSS, CSS animation,CSS transforms  | [Personal Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)             |
 
 
 
