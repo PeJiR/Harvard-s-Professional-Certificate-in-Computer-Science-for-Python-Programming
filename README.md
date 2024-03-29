@@ -56,3 +56,42 @@ Model real-world entities with classes, objects, methods, and properties; and re
 | 7    | SQL              | [Pset7](Pset7)             |
 | 8    | Information      | [WebTrack](WebTrack)       |
 
+
+## Author
+
+👤 **Roberto PEREZ**
+
+<!--- 
+* [Website](https://pejir.github.io/robertoportfolio.io/ )
+* [Twitter](https://twitter.com/pejir)--->
+* [Github](https://github.com/pejir)
+* [LinkedIn](https://linkedin.com/in/pejir)
+
+<!---
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](pejir). You can also take a look at the [contributing guide](pejir).
+---> 
+ 
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<!---
+<a href="https://www.patreon.com/pejir">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+--->
+
+## 📝 License
+
+Copyright © 2023 [Roberto Perez](https://github.com/PeJiR).<br />
+This project is [MIT](https://opensource.org/license/mit/) licensed.
+
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
