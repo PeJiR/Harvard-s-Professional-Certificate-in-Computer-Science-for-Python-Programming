@@ -10,7 +10,7 @@ An introduction to programming using a language called Python. Learn how to read
 
 ## See Certificate
 
-<a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50-s-Introduction-to-Programming-with-Python/Certificate_CS50%20Python.pdf" target="_blank">
+<a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Certificate_CS50%20Python.pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
 </a>
  
