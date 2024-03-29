@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
+Week 1 Conditionals
 </h1>
 
 
