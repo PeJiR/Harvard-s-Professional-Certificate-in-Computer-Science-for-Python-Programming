@@ -42,6 +42,12 @@ assert. AssertionError. pytest. Packages. __init__.py.
 | Re-requesting a Vanity Plate | In a file called plates.py, reimplement Vanity Plates from Problem Set 2, restructuring your code per the below, wherein is_valid still expects a str as input and returns True if that str meets all requirements and False if it does not, but main is only called if the value of __name__ is "__main__":| [plates.py](https://www.online-python.com/lJnhpzZ78b) |
 | Refueling | In a file called fuel.py, reimplement Fuel Gauge from Problem Set 3, restructuring your code per the below, wherein: convert expects a str in X/Y format as input, wherein each of X and Y is an integer, and returns that fraction as a percentage rounded to the nearest int between 0 and 100, inclusive. If X and/or Y is not an integer, or if X is greater than Y, then convert should raise a ValueError. If Y is 0, then convert should raise a ZeroDivisionError.  | [fuel.py ](https://www.online-python.com/79wcJ8Sj2G)          |
 
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
+
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 
 
  
