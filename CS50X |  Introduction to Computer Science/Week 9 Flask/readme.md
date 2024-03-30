@@ -29,13 +29,16 @@ Week 9 - Flask
 ## Specialties
 ```sh 
 
-Routers
-DNS
-HTTP
-HTML
-CSS
-Frameworks
-JavaScript
+Static to Dynamic
+Flask
+Layout
+POST
+Frosh IMs
+Flask and SQL
+Session
+Store
+API
+JSON
 
 ```
 
@@ -46,7 +49,7 @@ JavaScript
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 8 
+## Problem Set 9
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
