@@ -42,6 +42,12 @@ while. for. list. range. continue. break. list. len. dict. None.
 | Making Faces  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
 | Einstein   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
 | Tip Calculator| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
+
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 
 
 
