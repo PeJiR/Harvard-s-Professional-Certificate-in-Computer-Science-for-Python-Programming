@@ -50,12 +50,7 @@ Cryptography
  
    
 
- 
->[!NOTE]
->Some projects need to install Python packages to run.
 
->[!IMPORTANT]
->In order to install required packages `you` need to `run` the program `locally` in your computer.
 
  
 
