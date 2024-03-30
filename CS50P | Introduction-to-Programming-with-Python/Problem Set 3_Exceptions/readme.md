@@ -42,6 +42,12 @@ SyntaxError. ValueError. try. except. NameError. else. pass. raise.
 | Grocery List  |In a file called grocery.py, implement a program that prompts the user for items, one per line, until the user inputs control-d (which is a common way of ending one’s input to a program). Then output the user’s grocery list in all uppercase, sorted alphabetically by item, prefixing each line with the number of times the user inputted that item. No need to pluralize the items. Treat the user’s input case-insensitively. | [grocery.py](https://www.online-python.com/l4gUYBHZwa) |
 | Outdated |In a file called outdated.py, implement a program that prompts the user for a date, anno Domini, in month-day-year order, formatted like 9/8/1636 or September 8, 1636, wherein the month in the latter might be any of the values in the list below:| [outdated.py ](https://www.online-python.com/2pJgWh6UPR)          |
 
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
+
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 
 
  
