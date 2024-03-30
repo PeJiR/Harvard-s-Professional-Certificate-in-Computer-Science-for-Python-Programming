@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
+Week 7 Regular Expressions 
 </h1>
 
 
@@ -22,22 +22,22 @@ Week 0 Functions
 --->
 
 ## Specialties
- 
-Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
-
+```sh 
+Regular Expressions. Regexes. re. re.search. re.match. re.fullmatch. re.sub. re.split. re.findall.
+```
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-## Problem Set 0 
+## Problem Set 7 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Indoor Voice   | In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input. |[indoor.py ](https://www.online-python.com/3LJqD9gvne)|
-| Playback Speed  | In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). | [Playback.py ](https://www.online-python.com/RBrs1mWIpg)             |
-| Making Faces  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
-| Einstein   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
-| Tip Calculator| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
+| NUMB3RS   | In a file called numb3rs.py, implement a function called validate that expects an IPv4 address as input as a str and then returns True or False, respectively, if that input is a valid IPv4 address or not.|[numb3rs.py ](https://www.online-python.com/Pw4s5kL3qn)|
+| Watch on YouTube | In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). | [Playback.py ](https://www.online-python.com/RBrs1mWIpg)             |
+| Working 9 to 5  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
+| Regular, um, Expressions   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
+| Response Validation| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
 
  
 >[!NOTE]
