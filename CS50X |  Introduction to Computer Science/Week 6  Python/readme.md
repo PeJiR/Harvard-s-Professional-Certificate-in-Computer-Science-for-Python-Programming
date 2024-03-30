@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 6 -  Memory
+Week 6 -  Python
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -29,21 +29,18 @@ Week 6 -  Memory
 ## Specialties
 ```sh 
 
-Memory
-Hexadecimal
-Addresses
-Pointers
-Strings
-Pointer Arithmetic
-Comparing Strings
-Copying
-Valgrind
-Garbage Values
-Pointer Fun with Binky
+Python
+Image Recognition
+Conditionals
+Variables
+Loops
+Object-Oriented Programming
+Uppercase
+Exit Status
+Search
+Comparison
 Swap
-Overflow
-scanf
-Files
+CSV
 
 ```
 
@@ -58,7 +55,11 @@ Files
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Recover | Implement a program called recover that recovers JPEGs from a forensic image.   Implement your program in a file called recover.c in a directory called recover.    Your program should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs.   If your program is not executed with exactly one command-line argument, it should remind the user of correct usage, and main should return 1.   If the forensic image cannot be opened for reading, your program should inform the user as much, and main should return 1.  The files you generate should each be named ###.jpg, where ### is a three-digit decimal number, starting with 000 for the first image and counting up.Your program, if it uses malloc, must not leak any memory. |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
+| Hello  | [Write, in a file called hello.py, a program that prompts a user for their name, and then prints hello, so-and-so, where so-and-so is their provided name, exactly as you did in Problem Set 1, except that your program this time should be written in Python.](https://cs50.harvard.edu/x/2023/psets/6/hello/)  |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/hello.py)|
+| Mario |  |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
+| Credit |  |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
+| Readability |  |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
+| DNA |  |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
 
  
 
