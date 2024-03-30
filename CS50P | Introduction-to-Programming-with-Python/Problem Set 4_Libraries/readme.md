@@ -42,13 +42,16 @@ Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv
 | Adieu, Adieu  |In a file called adieu.py, implement a program that prompts the user for names, one per line, until the user inputs control-d. Assume that the user will input at least one name. Then bid adieu to those names, separating two names with one and, three names with two commas and one and, and names with commas and one and, as in the below:| [adieu.py](https://www.online-python.com/ez5J26dPOy) |
 | Guessing Game | In a file called game.py, implement a program that:Prompts the user for a level, if the user does not input a positive integer, the program should prompt again.Randomly generates an integer between 1 and, inclusive, using the random module.Prompts the user to guess that integer. If the guess is not a positive integer, the program should prompt the user again.  | [game.py ](https://www.online-python.com/RjPlUQcxpf)          |
 | Little Professor | In a file called professor.py, implement a program that: Prompts the user for a level, If the user does not input 1, 2, or 3, the program should prompt again.Randomly generates ten (10) math problems formatted as X + Y = , wherein each of X and Y is a non-negative integer with digits. No need to support operations other than addition (+).Prompts the user to solve each of those problems. If an answer is not correct (or not even a number), the program should output EEE and prompt the user again, allowing the user up to three tries in total for that problem. If the user has still not answered correctly after three tries, the program should output the correct answer.The program should ultimately output the user’s score: the number of correct answers out of 10.    | [professor.py ](https://www.online-python.com/7abezhJ4NE)          |
-| Bitcoin Price Index | In a file called bitcoin.py, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins, 
-, that they would like to buy. If that argument cannot be converted to a float, the program should exit via sys.exit with an error message. Queries the API for the CoinDesk Bitcoin Price Index at https://api.coindesk.com/v1/bpi/currentprice.json, which returns a JSON object, among whose nested keys is the current price of Bitcoin as a float. Be sure to catch any exceptions, as with code like:  | [bitcoin.py ](https://www.online-python.com/Lba46R8Vzr)          |
+| Bitcoin Price Index | In a file called bitcoin.py, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins,that they would like to buy. If that argument cannot be converted to a float, the program should exit via sys.exit with an error message. Queries the API for the CoinDesk Bitcoin Price Index at https://api.coindesk.com/v1/bpi/currentprice.json, which returns a JSON object, among whose nested keys is the current price of Bitcoin as a float. Be sure to catch any exceptions, as with code like:  | [bitcoin.py ](https://www.online-python.com/1cRDkT4wHF)          |
 
 
+<!--- 
+>[!NOTE]
+>The program is case-insensitive.
 
-
- 
+>[!IMPORTANT]
+>Do not forget the comma `,` between the `day` and `year` of the birthdate.
+--->
 
 ## Author
 
