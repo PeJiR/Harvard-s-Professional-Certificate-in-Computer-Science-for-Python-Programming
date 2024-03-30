@@ -31,18 +31,18 @@ An introduction to programming using a language called Python. Learn how to read
 ### List of my Projects
 
 
-| Week | Topic            | Name                       |
-| :--- | :--------------- | :------------------------- |
-| 0    | Functions, Variables              | [Pset0](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%200_%20Functions%2C%20Variables)             |
-| 1    | Conditionals               | [Pset1](Pset1)             |
-| 2    | Loops         | [Pset2](Pset2)             |
-| 3    | Exceptions      | [Pset3](Pset3)             |
-| 4    | Libraries         | [Pset4](Pset4)             |
-| 5    | Unit Tests | [Pset5](Pset5)             |
-| 6    | File I/O        | [Pset6](Pset6)             |
-| 7    | Regular Expressions            | [Pset7](Pset7)             |
-| 8    | Object-Oriented Programming    | [WebTrack](WebTrack)       |
-| 9    | Et Cetera  | [Final Project](WebTrack)       |
+| Week | Topic                                    | Name                       |
+| :--- | :---------------                         | :------------------------- |
+| 0    | Functions, Variables                     | [Pset0](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%200_%20Functions%2C%20Variables)             |
+| 1    | Conditionals                          | [Pset1](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%201_Conditionals)             |
+| 2    | Loops                                   | [Pset2](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%202_Loops)             |
+| 3    | Exceptions                               | [Pset3](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%203_Exceptions)             |
+| 4    | Libraries                                  | [Pset4](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%204_Libraries)             |
+| 5    | Unit Tests                           | [Pset5](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%205_Unit_Tests)             |
+| 6    | File I/O                                   | [Pset6](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%206%20_File%20I%20O)             |
+| 7    | Regular Expressions                          | [Pset7](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%207_Regular%20Expressions)             |
+| 8    | Object-Oriented Programming                   | [Pset8](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%208%20Object-Oriented%20Programming)       |
+| 9    | Et Cetera                           | [Final Project](WebTrack)       |
 
 
 
