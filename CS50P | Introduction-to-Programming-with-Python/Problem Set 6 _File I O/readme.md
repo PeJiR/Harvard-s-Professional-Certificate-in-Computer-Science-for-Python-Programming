@@ -33,7 +33,7 @@ list. open. with. sorted. CSV. dict. csv. PIL.
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-## Problem Set 3 
+## Problem Set 6 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
