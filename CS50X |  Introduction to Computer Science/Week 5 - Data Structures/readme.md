@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 4 -  Memory
+Week 5 - Data Structures
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -29,21 +29,15 @@ Week 4 -  Memory
 ## Specialties
 ```sh 
 
-Memory
-Hexadecimal
-Addresses
-Pointers
-Strings
-Pointer Arithmetic
-Comparing Strings
-Copying
-Valgrind
-Garbage Values
-Pointer Fun with Binky
-Swap
-Overflow
-scanf
-Files
+Data Structures
+Stacks and Queues
+Jack Learns the Facts
+Resizing Arrays
+Linked Lists
+Trees
+Dictionaries
+Hashing and Hash Tables
+Tries
 
 ```
 
@@ -54,7 +48,7 @@ Files
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 4 
+## Problem Set 5 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
