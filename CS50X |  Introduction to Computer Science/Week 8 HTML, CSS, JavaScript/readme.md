@@ -50,7 +50,7 @@ JavaScript
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
-|  Homepage| [Build a simple homepage using HTML, CSS, and JavaScript.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[SQL query  ](https://github.com/PeJiR/robertoportfolio.io)|
+|  Homepage| [Build a simple homepage using HTML, CSS, and JavaScript.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[Homepage  ](https://github.com/PeJiR/robertoportfolio.io)|
 
  
 
