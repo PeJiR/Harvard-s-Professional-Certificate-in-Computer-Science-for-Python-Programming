@@ -38,14 +38,7 @@ Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
 | Emojize   | In a file called emojize.py, implement a program that prompts the user for a str in English and then outputs the “emojized” version of that str, converting any codes (or aliases) therein to their corresponding emoji.|[emojize.py ](https://www.online-python.com/x0gkAI26lb)|
-| Frank, Ian and Glen’s Letters | In a file called figlet.py, implement a program that:
-
-    Expects zero or two command-line arguments:
-        Zero if the user would like to output text in a random font.
-        Two if the user would like to output text in a specific font, in which case the first of the two should be -f or --font, and the second of the two should be the name of the font.
-    Prompts the user for a str of text.
-    Outputs that text in the desired font.
-| [figlet.py ](https://www.online-python.com/Olb16J9FRa)             |
+| Frank, Ian and Glen’s Letters | In a file called figlet.py, implement a program that:Expects zero or two command-line arguments:Zero if the user would like to output text in a random font.Two if the user would like to output text in a specific font, in which case the first of the two should be -f or --font, and the second of the two should be the name of the font.Prompts the user for a str of text.Outputs that text in the desired font.| [figlet.py ](https://www.online-python.com/Olb16J9FRa)             |
 | Adieu, Adieu  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
 | Guessing Game | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
 | Little Professor | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
