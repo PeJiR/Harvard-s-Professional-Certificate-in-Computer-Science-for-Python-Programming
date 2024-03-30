@@ -23,7 +23,7 @@ How to handle exceptions, find and fix bugs, and write unit tests. Use third-par
 
 Model real-world entities with classes, objects, methods, and properties; and read and write files.
 
-## Courses in this program:
+## Courses in this certificate:
 
 ### [CS50X | Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science)
 
