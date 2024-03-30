@@ -45,14 +45,12 @@ Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv
 | Bitcoin Price Index | In a file called bitcoin.py, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins,that they would like to buy. If that argument cannot be converted to a float, the program should exit via sys.exit with an error message. Queries the API for the CoinDesk Bitcoin Price Index at https://api.coindesk.com/v1/bpi/currentprice.json, which returns a JSON object, among whose nested keys is the current price of Bitcoin as a float. Be sure to catch any exceptions, as with code like:  | [bitcoin.py ](https://www.online-python.com/1cRDkT4wHF)          |
 
 
-<!--- 
+ 
 >[!NOTE]
->The program is case-insensitive.
+>Some projects need to install Python packages to run.
 
 >[!IMPORTANT]
->Do not forget the comma `,` between the `day` and `year` of the birthdate.
---->
-
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 ## Author
 
 👤 **Roberto PEREZ**
