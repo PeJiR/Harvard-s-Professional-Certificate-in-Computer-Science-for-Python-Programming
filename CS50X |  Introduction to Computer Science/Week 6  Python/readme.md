@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 4 -  Memory
+Week 6 -  Python
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -29,21 +29,18 @@ Week 4 -  Memory
 ## Specialties
 ```sh 
 
-Memory
-Hexadecimal
-Addresses
-Pointers
-Strings
-Pointer Arithmetic
-Comparing Strings
-Copying
-Valgrind
-Garbage Values
-Pointer Fun with Binky
+Python
+Image Recognition
+Conditionals
+Variables
+Loops
+Object-Oriented Programming
+Uppercase
+Exit Status
+Search
+Comparison
 Swap
-Overflow
-scanf
-Files
+CSV
 
 ```
 
@@ -54,12 +51,16 @@ Files
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 4 
+## Problem Set 6
 
-| Objective | Topic            | Name                       |
+| Name  | Objective          | Link                     |
 | :--- | :--------------- | :------------------------- |
-| Recover | Implement a program called recover that recovers JPEGs from a forensic image.   Implement your program in a file called recover.c in a directory called recover.    Your program should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs.   If your program is not executed with exactly one command-line argument, it should remind the user of correct usage, and main should return 1.   If the forensic image cannot be opened for reading, your program should inform the user as much, and main should return 1.  The files you generate should each be named ###.jpg, where ### is a three-digit decimal number, starting with 000 for the first image and counting up.Your program, if it uses malloc, must not leak any memory. |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
-
+| Hello  | [Write, in a file called hello.py, a program that prompts a user for their name, and then prints hello, so-and-so, where so-and-so is their provided name, exactly as you did in Problem Set 1, except that your program this time should be written in Python.](https://cs50.harvard.edu/x/2023/psets/6/hello/)  |[hello.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/hello.py)|
+|Mario  | [Write, in a file called hello.py, a program that prompts a user for their name, and then prints hello, so-and-so, where so-and-so is their provided name, exactly as you did in Problem Set 1, except that your program this time should be written in Python.](https://cs50.harvard.edu/x/2023/psets/6/mario/less/)  |[mario.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/mario.py)|
+|Credit | [In credit.py, write a program that prompts the user for a credit card number and then reports (via print) whether it is a valid American Express, MasterCard, or Visa card number, exactly as you did in Problem Set 1, except that your program this time should be written in Python.](https://cs50.harvard.edu/x/2023/psets/6/credit/)  |[credit.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/mario.py)|
+|Readability  | [Write, in a file called readability.py, a program that first asks the user to type in some text, and then outputs the grade level for the text, according to the Coleman-Liau formula, exactly as you did in Problem Set 2, except that your program this time should be written in Python. ](https://cs50.harvard.edu/x/2023/psets/6/readability/)  |[credit.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/readability.py)|
+|DNA | [In a file called dna.py, implement a program that identifies to whom a sequence of DNA belongs. ](https://cs50.harvard.edu/x/2023/psets/6/dna/)  |[credit.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%206%20%20Python/dna.py)|
+ 
  
 
 ## Author
