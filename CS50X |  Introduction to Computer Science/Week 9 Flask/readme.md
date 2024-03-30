@@ -57,7 +57,7 @@ JSON
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
-|  Finance| [C$50 Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying for stocks’ prices..](https://cs50.harvard.edu/x/2023/psets/9/finance/) |[C$50 Finance  ](https://finance.cs50.net/login)|
+|  Finance| [C$50 Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying for stocks’ prices..](https://cs50.harvard.edu/x/2023/psets/9/finance/) |[C$50 Finance  ](hhttps://finance.cs50.net/login)|
 
  
 
