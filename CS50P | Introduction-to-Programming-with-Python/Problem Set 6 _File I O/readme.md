@@ -31,7 +31,11 @@ list. open. with. sorted. CSV. dict. csv. PIL.
 ```
 ## Technology Used ✨
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
+- Python <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
+- VSCode<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)" alt="css3" width="40" height="40"/>
+- Debian<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg)" alt="css3" width="40" height="40"/>
+
+
  
 ## Problem Set 6 
 
