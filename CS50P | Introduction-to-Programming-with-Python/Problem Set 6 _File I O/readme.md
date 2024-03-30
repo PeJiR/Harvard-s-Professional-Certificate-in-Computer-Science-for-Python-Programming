@@ -42,7 +42,13 @@ list. open. with. sorted. CSV. dict. csv. PIL.
 | Scourgify| In a file called scourgify.py, implement a program that: Expects the user to provide two command-line arguments: the name of an existing CSV file to read as input, whose columns are assumed to be, in order, name and house, and the name of a new CSV to write as output, whose columns should be, in order, first, last, and house.Converts that input to that output, splitting each name into a first name and last name. Assume that each student will have both a first name and last name. If the user does not provide exactly two command-line arguments, or if the first cannot be read, the program should exit via sys.exit with an error message.| [scourgify.py](https://www.online-python.com/o6NYXnv4Sj) |
 | CS50 P-Shirt| In a file called shirt.py, implement a program that expects exactly two command-line arguments:in sys.argv[1], the name (or path) of a JPEG or PNG to read (i.e., open) as input in sys.argv[2], the name (or path) of a JPEG or PNG to write (i.e., save) as output| [shirt.py ](https://www.online-python.com/HckIUSRFqV)          |
 
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
 
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
+ 
 
  
 
