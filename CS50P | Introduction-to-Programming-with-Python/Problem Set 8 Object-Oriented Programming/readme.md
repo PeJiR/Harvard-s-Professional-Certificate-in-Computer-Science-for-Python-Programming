@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
+Week 8 Object-Oriented Programming  
 </h1>
 
 
@@ -22,14 +22,15 @@ Week 0 Functions
 --->
 
 ## Specialties
- 
-Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
+```sh 
+docs.python.org. set. global. Constants. Type Hints. mypy. Docstrings. peps.python.org. argparse. Unpacking. *args. **kwargs. print. map. List Comprehensions. filter. Dictionary Comprehensions. enumerate. Generators. yield. Iterators.
+```
 
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-## Problem Set 0 
+## Problem Set 8 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
@@ -39,7 +40,12 @@ Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Ps
 | Einstein   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
 | Tip Calculator| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
 
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
 
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 
  
 
