@@ -52,14 +52,7 @@ Merge Sort
 | :--- | :--------------- | :------------------------- |
 | Runoff | Complete the implementation of runoff.c in such a way that it simulates a runoff election. You should complete the implementations of the vote, tabulate, print_winner, find_min, is_tie, and eliminate functions, and you should not modify anything else in runoff.c (and the inclusion of additional header files, if you’d like).Complete the implementation of runoff.c in such a way that it simulates a runoff election. You should complete the implementations of the vote, tabulate, print_winner, find_min, is_tie, and eliminate functions, and you should not modify anything else in runoff.c (and the inclusion of additional header files, if you’d like). |[runoff.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%203%20Algorithms/runoff.cL)|
 
-   
 
- 
->[!NOTE]
->Some projects need to install Python packages to run.
-
->[!IMPORTANT]
->In order to install required packages `you` need to `run` the program `locally` in your computer.
 
  
 
