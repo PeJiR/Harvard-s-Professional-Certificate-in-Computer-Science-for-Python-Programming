@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 4 -  Memory
+Week 7 -  SQL
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -29,21 +29,14 @@ Week 4 -  Memory
 ## Specialties
 ```sh 
 
-Memory
-Hexadecimal
-Addresses
-Pointers
-Strings
-Pointer Arithmetic
-Comparing Strings
-Copying
-Valgrind
-Garbage Values
-Pointer Fun with Binky
-Swap
-Overflow
-scanf
-Files
+Flat-File Database
+Relational Databases
+IMDb
+JOINs
+Indexes
+Using SQL in Python
+Race Conditions
+SQL Injection Attacks
 
 ```
 
@@ -54,9 +47,9 @@ Files
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 4 
+## Problem Set 7 
 
-| Objective | Topic            | Name                       |
+| Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
 | Recover | Implement a program called recover that recovers JPEGs from a forensic image.   Implement your program in a file called recover.c in a directory called recover.    Your program should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs.   If your program is not executed with exactly one command-line argument, it should remind the user of correct usage, and main should return 1.   If the forensic image cannot be opened for reading, your program should inform the user as much, and main should return 1.  The files you generate should each be named ###.jpg, where ### is a three-digit decimal number, starting with 000 for the first image and counting up.Your program, if it uses malloc, must not leak any memory. |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
 
