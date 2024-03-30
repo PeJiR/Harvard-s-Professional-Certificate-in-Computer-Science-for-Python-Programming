@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 8 -  SQL
+Week 9 - Flask
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -50,7 +50,7 @@ JavaScript
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
-|  Homepage| [Build a simple homepage using HTML, CSS, and JavaScript.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[Homepage  ](https://github.com/PeJiR/robertoportfolio.io)|
+|  Finance| [C$50 Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying for stocks’ prices..](https://cs50.harvard.edu/x/2023/psets/9/finance/) |[C$50 Finance  ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%209%20Flask/finance)|
 
  
 
