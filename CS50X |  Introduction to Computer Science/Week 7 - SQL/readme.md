@@ -51,7 +51,7 @@ SQL Injection Attacks
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
-|  Movies | [For each of the following problems, you should write a single SQL query that outputs the results specified by each problem. Your response must take the form of a single SQL query, though you may nest other queries inside of your query.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[recover.c ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%204%20Memory/recover.c)|
+|  Movies | [For each of the following problems, you should write a single SQL query that outputs the results specified by each problem. Your response must take the form of a single SQL query, though you may nest other queries inside of your query.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[SQL query  ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%207%20-%20SQL/movies)|
 
  
 
