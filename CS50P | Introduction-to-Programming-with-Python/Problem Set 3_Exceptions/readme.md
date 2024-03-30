@@ -2,9 +2,13 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
-</h1>
+Week 2 Loops
 
+ <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
+  <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
+  </a>
+  
+</h1>
 
 <!---
 <p>
@@ -22,9 +26,9 @@ Week 0 Functions
 --->
 
 ## Specialties
- 
-Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
-
+```sh 
+while. for. list. range. continue. break. list. len. dict. None.
+```
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 

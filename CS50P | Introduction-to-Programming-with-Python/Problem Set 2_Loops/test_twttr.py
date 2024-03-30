@@ -1,22 +1,21 @@
-import twttr
-
-from twttr import shorten
-
 def main():
-    test_upper_lower_cases()
-    test_numbers()
-    test_puntuation()
 
-def test_upper_lower_cases():
-    assert shorten ('twitter') == 'twttr'
-    assert shorten ('TWITTER') == 'TWITTR'
+    #get user input
+    answer = input("Input: ")
+    message_without_vowels= shorten(answer)
+    #print output
+    print("Output: " + message_without_vowels)
 
-def test_numbers():
-    assert shorten ('1,2,3,4') == '1,2,3,4'
+def shorten(answer):
+    message_without_vowels= ""
+    #loop through every letter
+    for letter in answer:
 
-def test_puntuation():
-    assert shorten ('!?.,') == '!?.,'
+        #check if it is a vowel or not
+        if not letter.lower() in ['a','e','i','o','u']:
+           message_without_vowels += letter
 
+    return message_without_vowels
 
-if __name__ == "__main__":
+if __name__=="__main__":
     main()

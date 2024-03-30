@@ -25,11 +25,12 @@ fruits = {
 }
 
 #Get user input
-
-item = input("Item: ")
-item = item.lower()
-
-if item in fruits:
-    print(fruits[item])
-elif item not in fruits:
-    print()
+while True:
+    item = input("Item: ").lower()
+    
+    if item in fruits:
+        print(fruits[item])
+        break
+    else:
+        print ("Item not found.Please try again")
+    
