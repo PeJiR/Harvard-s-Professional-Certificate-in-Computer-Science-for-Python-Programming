@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 7 -  SQL
+Week 8 -  SQL
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -29,14 +29,13 @@ Week 7 -  SQL
 ## Specialties
 ```sh 
 
-Flat-File Database
-Relational Databases
-IMDb
-JOINs
-Indexes
-Using SQL in Python
-Race Conditions
-SQL Injection Attacks
+Routers
+DNS
+HTTP
+HTML
+CSS
+Frameworks
+JavaScript
 
 ```
 
@@ -47,11 +46,11 @@ SQL Injection Attacks
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 7 
+## Problem Set 8 
 
 | Name | Objective           | Link                     |
 | :--- | :--------------- | :------------------------- |
-|  Movies | [For each of the following problems, you should write a single SQL query that outputs the results specified by each problem. Your response must take the form of a single SQL query, though you may nest other queries inside of your query.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[SQL query  ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%207%20-%20SQL/movies)|
+|  Homepage| [Build a simple homepage using HTML, CSS, and JavaScript.](https://cs50.harvard.edu/x/2023/psets/7/movies/) |[SQL query  ](https://github.com/PeJiR/robertoportfolio.io)|
 
  
 
