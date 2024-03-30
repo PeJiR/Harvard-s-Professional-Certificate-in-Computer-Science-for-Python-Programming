@@ -1,89 +1,87 @@
 #include <cs50.h>
-#include <math.h>
 #include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+
 
 int main(void)
 {
+    //Ask user for the credit card number and store the input in a string
+    string card_number;
+    card_number = get_string("Number: ");
 
-    int sums = 0;
-    long creditno = 0;
-    int length = 0;
-    long copy;
-    int firstdigit;
-    int lastdigit;
-    int seconddig;
-    long copy2;
+    // Store the string length
+    int string_length = strlen(card_number);
 
-    do
+    //Iterate through each character to check if it is a digit
+    for (int character = 0; character < string_length; character++)
     {
-        creditno = get_long("Number: ");
-        copy = creditno;
-        copy2 = creditno;
-    }
-
-    while (creditno < 0);
-
-    // Length of the numbers for validation
-    while (copy != 0)
-    {
-
-        firstdigit = copy % 10;
-        copy /= 10; // First digit of the cc number
-        length++;
-    }
-
-    // Checksum of the credit Card
-    for (int i = 0; creditno != 0; i++, creditno /= 10)
-    {
-
-        if (i % 2 == 0)
-        {
-            sums = sums + creditno % 10;
-        }
-
-        else
-        {
-            int digit = (creditno % 10) * 2;
-            sums += (digit % 10) + (digit / 10);
-        }
-    }
-
-    lastdigit = sums % 10;
-
-    // Second digit of any number where length = number's length
-    for (int i = 1; i < length; i++)
-    {
-
-        seconddig = copy2 % 10;
-        copy2 /= 10;
-    }
-
-    if (lastdigit == 0)
-    {
-
-        if ((length == 16 || length == 13) && firstdigit == 4)
-        {
-            printf("VISA\n");
-        }
-
-        else if (length == 16 && (seconddig == 1 || seconddig == 2 || seconddig == 3 || seconddig == 4 || seconddig == 5))
-        {
-            printf("MASTERCARD\n");
-        }
-
-        else if (length == 15 && (seconddig == 4 || seconddig == 7))
-        {
-            printf("AMEX\n");
-        }
-
-        else
+        if (!isdigit(card_number[character]))
         {
             printf("INVALID\n");
+            break;
         }
     }
 
+    //Calculate the check_sum
+    int check_sum = 0;
+
+    for (int character = string_length - 1; character >= 0; character -= 2)
+    {
+        check_sum += card_number[character] - '0';
+    }
+
+    for (int character = string_length - 2; character >= 0; character -= 2)
+    {
+        int digit = ((card_number[character] - '0') * 2);
+
+        while (digit > 0)
+        {
+            check_sum += (digit % 10);
+            digit /= 10;
+        }
+    }
+
+    //Print the credit card provider
+    if (check_sum % 10 == 0 && string_length == 15 && card_number[0] == '3' && card_number[1] == '4')
+    {
+        printf("AMEX\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 15 && card_number[0] == '3' && card_number[1] == '7')
+    {
+        printf("AMEX\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 13 && card_number[0] == '4')
+    {
+        printf("VISA\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '4')
+    {
+        printf("VISA\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '5' && card_number[1] == '1')
+    {
+        printf("MASTERCARD\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '5' && card_number[1] == '2')
+    {
+        printf("MASTERCARD\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '5' && card_number[1] == '3')
+    {
+        printf("MASTERCARD\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '5' && card_number[1] == '4')
+    {
+        printf("MASTERCARD\n");
+    }
+    else if (check_sum % 10 == 0 && string_length == 16 && card_number[0] == '5' && card_number[1] == '5')
+    {
+        printf("MASTERCARD\n");
+    }
     else
     {
         printf("INVALID\n");
     }
+
 }
