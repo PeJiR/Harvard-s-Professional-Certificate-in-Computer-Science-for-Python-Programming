@@ -33,23 +33,50 @@ def after_request(response):
 
 @app.route("/")
 @login_required
-def index():
-    """Show all teh emails received"""
-    return apology("TODO")
-
+def inbox():
+    """Show all the emails received"""
+    userId = session["user_id"]
+    usernameDB = db.execute("SELECT username FROM users WHERE id =?", userId)
+    username = usernameDB[0]["username"]
+    emails = db.execute("SELECT * FROM emails WHERE recipient = ?",username)
+    return render_template("index.html",emails =emails)
 
 @app.route("/compose", methods=["GET", "POST"])
 @login_required
 def compose():
     """Write an email to someone"""
-    return apology("TODO")
+    if request.method == "GET":
+        userId = session["user_id"]
+        senderDB = db.execute(
+            "SELECT username FROM users WHERE id = ?", userId)
+        sender = senderDB[0]["username"]
+        return render_template("compose.html", sender=sender)
+
+    else:
+
+        sender = request.form.get("sender")
+        recipient = request.form.get("recipient")
+        subject = request.form.get("subject")
+        body = request.form.get("body")
+
+        if not sender or not recipient or not subject or not body:
+            return apology("No empty fields")
+
+        db.execute("INSERT INTO emails(sender, recipient,subject,body)VALUES (?,?,?,?)",
+                   sender, recipient, subject, body)
+
+        return redirect("/sent")
 
 
 @app.route("/sent")
 @login_required
 def sent():
-    """Show history of transactions"""
-    return apology("TODO")
+    """Show sent emails"""
+    userId = session["user_id"]
+    usernameDB = db.execute("SELECT username FROM users WHERE id =?", userId)
+    username = usernameDB[0]["username"]
+    emails = db.execute("SELECT * FROM emails WHERE sender = ?",username)
+    return render_template("index.html",emails =emails)
 
 
 @app.route("/login", methods=["GET", "POST"])
@@ -71,7 +98,8 @@ def login():
             return apology("must provide password", 403)
 
         # Query database for username
-        rows = db.execute("SELECT * FROM users WHERE username = ?", request.form.get("username"))
+        rows = db.execute("SELECT * FROM users WHERE username = ?",
+                          request.form.get("username"))
 
         # Ensure username exists and password is correct
         if len(rows) != 1 or not check_password_hash(rows[0]["hash"], request.form.get("password")):
@@ -99,11 +127,16 @@ def logout():
     return redirect("/")
 
 
-@app.route("/email", methods=["GET", "POST"])
+@app.route("/email", methods=["POST"])
 @login_required
 def email():
     """ See email details"""
-    return apology("TODO")
+    if request.method == "POST":
+        emailId = request.form.get("emailId")
+        emailDetailDB =db.execute("SELECT * FROM emails WHERE id=?", emailId)
+        emailDetail = emailDetailDB[0]
+        return render_template("email.html", emailDetail=emailDetail)
+
 
 
 @app.route("/register", methods=["GET", "POST"])
@@ -112,27 +145,36 @@ def register():
     if request.method == "GET":
         return render_template("register.html")
     else:
-        email =request.form.get("email")
-        password =request.form.get("password")
-        confirm =request.form.get("confirm")
+        email = request.form.get("email")
+        password = request.form.get("password")
+        confirm = request.form.get("confirm")
 
         if not email or not password or not confirm:
-            return apology (" Please fill in fields")
+            return apology(" Please fill in fields")
 
         if password != confirm:
-            return apology ("Passwords Do Not Match")
+            return apology("Passwords Do Not Match")
 
         hash = generate_password_hash(password)
 
         try:
-            db.execute("INSERT INTO users (username,hash) VALUES (?,?)")
+            newUser = db.execute(
+                "INSERT INTO users (username,hash) VALUES (?,?)", email, hash)
 
+        except:
 
+            return apology("Username already taken")
 
+        session["user_id"] = newUser
+
+        return redirect("/")
 
 
 @app.route("/reply", methods=["GET", "POST"])
 @login_required
 def reply():
-    """Reply email on email detail view"""
-    return apology("TODO")
+    if request.method == "POST":
+        emailId = request.form.get("emailId")
+        emailDetailDB =db.execute("SELECT * FROM emails WHERE id=?", emailId)
+        emailDetail = emailDetailDB[0]
+        return render_template("reply.html", emailDetail=emailDetail)
