@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-<h1 align="center">CS50’s Introduction to Programming with Python
+<h1 align="center">CS50’s Introduction to Computer Science
   
-Week 8 Object-Oriented Programming  
+Week 1 - C
 </h1>
 
 
@@ -23,7 +23,18 @@ Week 8 Object-Oriented Programming
 
 ## Specialties
 ```sh 
-tuple. Classes. class. Objects. Attributes. Instance Variables. Methods. Instance Methods. __init__. raise. __str__. Properties. @property. Decorators. int. str. str.lower. str.strip. list. list.append. dict. Class Methods. @classmethod. Static Methods. @staticmethod. Inheritance. BaseException. Operator Overloading. object.__add__.
+
+    Functions
+    Variables
+    Conditionals
+    Loops
+    Linux and the Command Line
+    Mario
+    Comments
+    Abstraction
+    Operators and Types
+    Summing Up
+
 ```
 
 ## Technology Used ✨
