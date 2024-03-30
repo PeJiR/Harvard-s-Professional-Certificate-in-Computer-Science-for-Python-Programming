@@ -23,7 +23,7 @@ Week 8 Object-Oriented Programming
 
 ## Specialties
 ```sh 
-docs.python.org. set. global. Constants. Type Hints. mypy. Docstrings. peps.python.org. argparse. Unpacking. *args. **kwargs. print. map. List Comprehensions. filter. Dictionary Comprehensions. enumerate. Generators. yield. Iterators.
+tuple. Classes. class. Objects. Attributes. Instance Variables. Methods. Instance Methods. __init__. raise. __str__. Properties. @property. Decorators. int. str. str.lower. str.strip. list. list.append. dict. Class Methods. @classmethod. Static Methods. @staticmethod. Inheritance. BaseException. Operator Overloading. object.__add__.
 ```
 
 ## Technology Used ✨
