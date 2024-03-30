@@ -1,4 +1,4 @@
-<h2 align="center">Project Title: Tic-Tac-Toe Game in Python</h1>
+<h1 align="center"> FinalProject  : Tic-Tac-Toe Game in Python</h1>
 <a href="https://vscode.dev/github/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming" target="_blank"> <img border=0 src="https://img.shields.io/badge/Open%20in%20Visual%20Studio%20Code-blue" alt="Visual Code"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"> <img border=0 src="https://img.shields.io/badge/python-2.7,%203.6+-blue.svg?style=flat" alt="Python version"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"><img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status"/></a>
@@ -10,7 +10,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 6  File I/O
+Week 9  Et Cetera 
 
  <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
