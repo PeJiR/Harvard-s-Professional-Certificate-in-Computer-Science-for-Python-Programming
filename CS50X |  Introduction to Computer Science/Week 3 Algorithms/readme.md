@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 1 - C
+Week 3 -  Algorithms
 </h1>
 
 
@@ -24,16 +24,13 @@ Week 1 - C
 ## Specialties
 ```sh 
 
-    Functions
-    Variables
-    Conditionals
-    Loops
-    Linux and the Command Line
-    Mario
-    Comments
-    Abstraction
-    Operators and Types
-    Summing Up
+Algorithms
+Running Time
+Linear and Binary Search
+Data Structures
+Sorting
+Recursion
+Merge Sort
 
 ```
 
@@ -49,8 +46,7 @@ Week 1 - C
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
 | Seasons of Love   | In a file called seasons.py, implement a program that prompts the user for their date of birth in YYYY-MM-DD format and then sings prints how old they are in minutes, rounded to the nearest integer, using English words instead of numerals, just like the song from Rent, without any and between words. Since a user might not know the time at which they were born, assume, for simplicity, that the user was born at midnight (i.e., 00:00:00) on that date.  |[seasons.py ](https://www.online-python.com/mu7eIyEvjL)|
-| Cookie Jar  | In a file called jar.py, implement a class called Jar with these methods:__init__ should initialize a cookie jar with the given capacity, which represents the maximum number of cookies that can fit in the cookie jar. If capacity is not a non-negative int, though, __init__ should instead raise a ValueError.__str__ should return a str with 🍪, where is the number of cookies in the cookie jar. For instance, if there are 3 cookies in the cookie jar, then str should return "🍪🍪🍪" deposit should add n cookies to the cookie jar. If adding that many would exceed the cookie jar’s capacity, though, deposit should instead raise a ValueError. withdraw should remove n cookies from the cookie jar. Nom nom nom. If there aren’t that many cookies in the cookie jar, though, withdraw should instead raise a ValueError.capacity should return the cookie jar’s capacity.size should return the number of cookies actually in the cookie jar, initially 0. | [jar.py ](https://www.online-python.com/dS8su9xyWp)  |
-| CS50 Shirtificate | In a file called shirtificate.py, implement a program that prompts the user for their name and outputs, using fpdf2, a CS50 shirtificate in a file called shirtificate.pdf similar to this one for John Harvard, with these specifications: The orientation of the PDF should be Portrait.  The format of the PDF should be A4, which is 210mm wide by 297mm tall.  The top of the PDF should say “CS50 Shirtificate” as text, centered horizontally. The shirt’s image should be centered horizontally. The user’s name should be on top of the shirt, in white text.| [shirtificate.py](https://www.online-python.com/OfEiPcLynI) |
+
    
 
  
