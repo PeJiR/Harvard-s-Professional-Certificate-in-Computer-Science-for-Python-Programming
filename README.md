@@ -54,7 +54,7 @@ Model real-world entities with classes, objects, methods, and properties; and re
 | 7    | SQL              | [Pset7](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%207%20-%20SQL)             |
 | 8    | HTML, CSS, JavaScript    | [Pset8](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%208%20HTML%2C%20CSS%2C%20JavaScript)       |
 | 9    | Flask  | [Pset 9](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%209%20Flask)       |
-| 10    | Emoji  | [Final Project](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%209%20Flask)       |
+| 10    | Emoji  | [Final Project](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%2010%20Emoji/Final%20Project/project)       |
 
 
 
