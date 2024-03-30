@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 3 Exceptions
+Week 4 Libraries
 
  <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
@@ -27,7 +27,7 @@ Week 3 Exceptions
 
 ## Specialties
 ```sh 
-SyntaxError. ValueError. try. except. NameError. else. pass. raise.
+Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv. IndexError. sys.exit. Slices. Packages. PyPI. pip. cowsay. APIs. requests. JSON. __name__.
 ```
 ## Technology Used ✨
 
@@ -37,14 +37,21 @@ SyntaxError. ValueError. try. except. NameError. else. pass. raise.
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Fuel Gauge   | In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input. |[indoor.py ](https://www.online-python.com/3LJqD9gvne)|
-| Felipe’s Taqueria  | In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). | [Playback.py ](https://www.online-python.com/RBrs1mWIpg)             |
-| Grocery List  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
-| Outdated | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
+| Emojize   | In a file called emojize.py, implement a program that prompts the user for a str in English and then outputs the “emojized” version of that str, converting any codes (or aliases) therein to their corresponding emoji.|[emojize.py ](https://www.online-python.com/x0gkAI26lb)|
+| Frank, Ian and Glen’s Letters | In a file called figlet.py, implement a program that:Expects zero or two command-line arguments:Zero if the user would like to output text in a random font.Two if the user would like to output text in a specific font, in which case the first of the two should be -f or --font, and the second of the two should be the name of the font.Prompts the user for a str of text.Outputs that text in the desired font.| [figlet.py ](https://www.online-python.com/Olb16J9FRa)             |
+| Adieu, Adieu  |In a file called adieu.py, implement a program that prompts the user for names, one per line, until the user inputs control-d. Assume that the user will input at least one name. Then bid adieu to those names, separating two names with one and, three names with two commas and one and, and names with commas and one and, as in the below:| [adieu.py](https://www.online-python.com/ez5J26dPOy) |
+| Guessing Game | In a file called game.py, implement a program that:Prompts the user for a level, if the user does not input a positive integer, the program should prompt again.Randomly generates an integer between 1 and, inclusive, using the random module.Prompts the user to guess that integer. If the guess is not a positive integer, the program should prompt the user again.  | [game.py ](https://www.online-python.com/RjPlUQcxpf)          |
+| Little Professor | In a file called professor.py, implement a program that: Prompts the user for a level, If the user does not input 1, 2, or 3, the program should prompt again.Randomly generates ten (10) math problems formatted as X + Y = , wherein each of X and Y is a non-negative integer with digits. No need to support operations other than addition (+).Prompts the user to solve each of those problems. If an answer is not correct (or not even a number), the program should output EEE and prompt the user again, allowing the user up to three tries in total for that problem. If the user has still not answered correctly after three tries, the program should output the correct answer.The program should ultimately output the user’s score: the number of correct answers out of 10.    | [professor.py ](https://www.online-python.com/7abezhJ4NE)          |
+| Bitcoin Price Index | In a file called bitcoin.py, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins,that they would like to buy. If that argument cannot be converted to a float, the program should exit via sys.exit with an error message. Queries the API for the CoinDesk Bitcoin Price Index at https://api.coindesk.com/v1/bpi/currentprice.json, which returns a JSON object, among whose nested keys is the current price of Bitcoin as a float. Be sure to catch any exceptions, as with code like:  | [bitcoin.py ](https://www.online-python.com/1cRDkT4wHF)          |
 
 
+<!--- 
+>[!NOTE]
+>The program is case-insensitive.
 
- 
+>[!IMPORTANT]
+>Do not forget the comma `,` between the `day` and `year` of the birthdate.
+--->
 
 ## Author
 
