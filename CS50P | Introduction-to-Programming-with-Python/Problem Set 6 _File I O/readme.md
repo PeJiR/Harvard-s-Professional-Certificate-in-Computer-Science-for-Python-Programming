@@ -27,7 +27,7 @@ Week 6  File I/O
 
 ## Specialties
 ```sh 
-assert. AssertionError. pytest. Packages. __init__.py.
+list. open. with. sorted. CSV. dict. csv. PIL.
 ```
 ## Technology Used ✨
 
