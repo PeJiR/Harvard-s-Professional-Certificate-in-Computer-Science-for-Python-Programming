@@ -58,8 +58,8 @@ Model real-world entities with classes, objects, methods, and properties; and re
 | 5    | Unit Tests                           | [Pset5](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%205_Unit_Tests)             |
 | 6    | File I/O                                   | [Pset6](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%206%20_File%20I%20O)             |
 | 7    | Regular Expressions                          | [Pset7](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%207_Regular%20Expressions)             |
-| 8    | Object-Oriented Programming                   | [WebTrack](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%208%20Object-Oriented%20Programming)       |
-| 9    | Et Cetera (Final Project )                           | [WebTrack](WebTrack)       |
+| 8    | Object-Oriented Programming                   | [Pset8](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%208%20Object-Oriented%20Programming)       |
+| 9    | Et Cetera                           | [Final Project](WebTrack)       |
  
 
 

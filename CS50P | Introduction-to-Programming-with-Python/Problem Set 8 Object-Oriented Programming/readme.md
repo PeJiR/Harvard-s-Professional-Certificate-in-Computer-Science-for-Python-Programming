@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Programming with Python
   
-Week 0 Functions  
+Week 8 Object-Oriented Programming  
 </h1>
 
 
@@ -22,24 +22,29 @@ Week 0 Functions
 --->
 
 ## Specialties
- 
-Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
+```sh 
+tuple. Classes. class. Objects. Attributes. Instance Variables. Methods. Instance Methods. __init__. raise. __str__. Properties. @property. Decorators. int. str. str.lower. str.strip. list. list.append. dict. Class Methods. @classmethod. Static Methods. @staticmethod. Inheritance. BaseException. Operator Overloading. object.__add__.
+```
 
 ## Technology Used ✨
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
  
-## Problem Set 0 
+## Problem Set 8 
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Indoor Voice   | In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input. |[indoor.py ](https://www.online-python.com/3LJqD9gvne)|
-| Playback Speed  | In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). | [Playback.py ](https://www.online-python.com/RBrs1mWIpg)             |
-| Making Faces  | In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.| [faces.py](https://www.online-python.com/l4gUYBHZwa) |
-| Einstein   | In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.     | [einstein.py ](https://www.online-python.com/Lba46R8Vzr)          |
-| Tip Calculator| And now for my Wizard tip calculator.— Morty Seinfeld | [tip.py](https://www.online-python.com/oRHM3Lv0rm)             |
+| Seasons of Love   | In a file called seasons.py, implement a program that prompts the user for their date of birth in YYYY-MM-DD format and then sings prints how old they are in minutes, rounded to the nearest integer, using English words instead of numerals, just like the song from Rent, without any and between words. Since a user might not know the time at which they were born, assume, for simplicity, that the user was born at midnight (i.e., 00:00:00) on that date.  |[seasons.py ](https://www.online-python.com/mu7eIyEvjL)|
+| Cookie Jar  | In a file called jar.py, implement a class called Jar with these methods:__init__ should initialize a cookie jar with the given capacity, which represents the maximum number of cookies that can fit in the cookie jar. If capacity is not a non-negative int, though, __init__ should instead raise a ValueError.__str__ should return a str with 🍪, where is the number of cookies in the cookie jar. For instance, if there are 3 cookies in the cookie jar, then str should return "🍪🍪🍪" deposit should add n cookies to the cookie jar. If adding that many would exceed the cookie jar’s capacity, though, deposit should instead raise a ValueError. withdraw should remove n cookies from the cookie jar. Nom nom nom. If there aren’t that many cookies in the cookie jar, though, withdraw should instead raise a ValueError.capacity should return the cookie jar’s capacity.size should return the number of cookies actually in the cookie jar, initially 0. | [jar.py ](https://www.online-python.com/dS8su9xyWp)  |
+| CS50 Shirtificate | In a file called shirtificate.py, implement a program that prompts the user for their name and outputs, using fpdf2, a CS50 shirtificate in a file called shirtificate.pdf similar to this one for John Harvard, with these specifications: The orientation of the PDF should be Portrait.  The format of the PDF should be A4, which is 210mm wide by 297mm tall.  The top of the PDF should say “CS50 Shirtificate” as text, centered horizontally. The shirt’s image should be centered horizontally. The user’s name should be on top of the shirt, in white text.| [shirtificate.py](https://www.online-python.com/OfEiPcLynI) |
+   
 
+ 
+>[!NOTE]
+>Some projects need to install Python packages to run.
 
+>[!IMPORTANT]
+>In order to install required packages `you` need to `run` the program `locally` in your computer.
 
  
 
