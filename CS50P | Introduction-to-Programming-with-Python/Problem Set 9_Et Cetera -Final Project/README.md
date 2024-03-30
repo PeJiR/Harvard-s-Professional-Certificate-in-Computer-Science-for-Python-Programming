@@ -41,7 +41,9 @@ To play the game, simply navigate to the project directory and run the following
     python project.py
 
 You will be prompted to enter the names of the two players. The game will then begin, and the players will take turns placing their marks on the board.
-<img src="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project/tic-toc.png" widht="auto">
+
+<img src="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%209_Et%20Cetera%20-Final%20Project/tic-toc.png" widht="auto">
+
 ## Controls
 
 To place a mark on the board, simply enter the row and column number of the space you want to mark. For example, to place your mark in the middle space, you would enter 2 2.
