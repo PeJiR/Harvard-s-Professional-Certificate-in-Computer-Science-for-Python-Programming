@@ -42,7 +42,7 @@ An introduction to programming using a language called Python. Learn how to read
 | 6    | File I/O        | [Pset6](Pset6)             |
 | 7    | Regular Expressions            | [Pset7](Pset7)             |
 | 8    | Object-Oriented Programming    | [WebTrack](WebTrack)       |
-| 8    | Et Cetera  | [WebTrack](WebTrack)       |
+| 9    | Et Cetera  | [Final Project](WebTrack)       |
 
 
 
