@@ -31,7 +31,7 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 ## Courses in this certificate:
 
-### [CS50X | Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science)
+- ### [CS50X | Introduction to Computer Science](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science)
 
 ### List of my Projects
 
@@ -48,7 +48,7 @@ Model real-world entities with classes, objects, methods, and properties; and re
 
 
 
-### [CS50P | Introduction to Programming with Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python)
+- ### [CS50P | Introduction to Programming with Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python)
 
 
 
