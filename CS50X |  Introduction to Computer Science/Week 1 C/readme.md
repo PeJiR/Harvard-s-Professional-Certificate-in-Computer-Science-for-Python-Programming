@@ -29,11 +29,9 @@ Week 1 - C
     Conditionals
     Loops
     Linux and the Command Line
-    Mario
-    Comments
     Abstraction
     Operators and Types
-    Summing Up
+  
 
 ```
 
