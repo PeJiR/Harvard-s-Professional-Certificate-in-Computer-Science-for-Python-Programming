@@ -5,17 +5,13 @@
 <a target="new" href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPeJiR%2FHarvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Visit count"/></a>
 <a target="new" href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming "><img border=0 src="https://img.shields.io/github/stars/Pejir/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.svg?style=social&label=Star&maxAge=60" alt="Star this repo"></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
-<h1 align="center"> FinalProject  : Tic-Tac-Toe Game in Python</h1>
-
-<a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
-
 <h1 align="center">CS50’s Introduction to Programming with Python
-  
 Week 9  Et Cetera 
 
  <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
   </a>
+<h1 align="center"> FinalProject  : Tic-Tac-Toe Game in Python</h1>
 
 ## ✨[Demo](https://youtu.be/T85OjtX9J4k)
 
