@@ -2,7 +2,7 @@
 
 <h1 align="center">CS50’s Introduction to Computer Science
   
-Week 1 - C
+Week 2 - Arrays
 </h1>
 
 
@@ -24,16 +24,13 @@ Week 1 - C
 ## Specialties
 ```sh 
 
-    Functions
-    Variables
-    Conditionals
-    Loops
-    Linux and the Command Line
-    Mario
-    Comments
-    Abstraction
-    Operators and Types
-    Summing Up
+Compiling
+Debugging
+Arrays
+Strings
+Command-Line Arguments
+Exit Status
+Cryptography
 
 ```
 
@@ -44,13 +41,13 @@ Week 1 - C
 - VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
  
-## Problem Set 8 
+## Problem Set 2
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Seasons of Love   | In a file called seasons.py, implement a program that prompts the user for their date of birth in YYYY-MM-DD format and then sings prints how old they are in minutes, rounded to the nearest integer, using English words instead of numerals, just like the song from Rent, without any and between words. Since a user might not know the time at which they were born, assume, for simplicity, that the user was born at midnight (i.e., 00:00:00) on that date.  |[seasons.py ](https://www.online-python.com/mu7eIyEvjL)|
-| Cookie Jar  | In a file called jar.py, implement a class called Jar with these methods:__init__ should initialize a cookie jar with the given capacity, which represents the maximum number of cookies that can fit in the cookie jar. If capacity is not a non-negative int, though, __init__ should instead raise a ValueError.__str__ should return a str with 🍪, where is the number of cookies in the cookie jar. For instance, if there are 3 cookies in the cookie jar, then str should return "🍪🍪🍪" deposit should add n cookies to the cookie jar. If adding that many would exceed the cookie jar’s capacity, though, deposit should instead raise a ValueError. withdraw should remove n cookies from the cookie jar. Nom nom nom. If there aren’t that many cookies in the cookie jar, though, withdraw should instead raise a ValueError.capacity should return the cookie jar’s capacity.size should return the number of cookies actually in the cookie jar, initially 0. | [jar.py ](https://www.online-python.com/dS8su9xyWp)  |
-| CS50 Shirtificate | In a file called shirtificate.py, implement a program that prompts the user for their name and outputs, using fpdf2, a CS50 shirtificate in a file called shirtificate.pdf similar to this one for John Harvard, with these specifications: The orientation of the PDF should be Portrait.  The format of the PDF should be A4, which is 210mm wide by 297mm tall.  The top of the PDF should say “CS50 Shirtificate” as text, centered horizontally. The shirt’s image should be centered horizontally. The user’s name should be on top of the shirt, in white text.| [shirtificate.py](https://www.online-python.com/OfEiPcLynI) |
+| Bulbs   | Design and implement a program, bulbs, that converts text into instructions for the strip of bulbs on CS50’s stage as follows:   Implement your program in a file called bulbs.c.   Your program must first ask the user for a message using get_string.    Your program must then convert the given string into a series of 8-bit binary numbers, one for each character of the string.    You can use the provided print_bulb function to print a series of 0s and 1s as a series of yellow and black emoji, which represent on and off light bulbs.  Each “byte” of 8 symbols should be printed on its own line when outputted; there should be a \n after the last “byte” of 8 symbols as well.
+|[seasons.py ](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50X%20%7C%20%20Introduction%20to%20Computer%20Science/Week%202%20Arrays/bulbs.c)|
+ 
    
 
  
