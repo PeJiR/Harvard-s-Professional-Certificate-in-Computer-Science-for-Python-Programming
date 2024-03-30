@@ -31,7 +31,6 @@ Week 7 -  SQL
 
 Flat-File Database
 Relational Databases
-IMDb
 JOINs
 Indexes
 Using SQL in Python
