@@ -31,12 +31,8 @@ Week 9 - Flask
 
 Static to Dynamic
 Flask
-Layout
 POST
-Frosh IMs
 Flask and SQL
-Session
-Store
 API
 JSON
 
