@@ -4,14 +4,14 @@
 <a target="new" href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming "><img border=0 src="https://img.shields.io/github/stars/Pejir/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.svg?style=social&label=Star&maxAge=60" alt="Star this repo"></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-<h1 align="center">CS50’s Introduction to Programming with Python
+<h1 align="center">CS50’s Introduction to Computer Science
 
-Week 9 Et Cetera
+Week 10 Emoji
 
  <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming.git">
   <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_200_200/0/1631309789389?e=1720051200&amp;v=beta&amp;t=bZH--2YGsjzmL1rsyx6O15g9k-41VyNXKV4HKGEYTaw" loading="lazy" alt="CS50 logo" id="ember490" class="evi-image lazy-image ember-view org-top-card-primary-content__logo" width="96" height="96">
   </a>
-<h1 align="center"> FinalProject  : Tic-Tac-Toe Game in Python</h1>
+<h1 align="center"> FinalProject  : Mail Web server</h1>
 
 ## ✨[Demo](https://youtu.be/T85OjtX9J4k)
 
@@ -19,7 +19,7 @@ Week 9 Et Cetera
 
 ## Description:
 
-> This project is a simple tic-tac-toe game implemented in Python. The game can be played by two players, who take turns placing their marks (X or O) on a 3x3 grid. The first player to get three of their marks in a row, column, or diagonal wins the game.
+> This project is a basic email server, akin to Gmail, featuring key functions like inbox, sent items, and composing emails.
 
 ## Technology Used ✨
 
